@@ -1,0 +1,1 @@
+Compito fare esercizi arrays
