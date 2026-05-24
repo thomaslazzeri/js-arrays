@@ -44,7 +44,7 @@ for (let i = 0; i < teachersCopy2.length; i++) {
     break;
   }
 }
-console.log("Es 3 (senza Ed):", teachersCopy2);
+console.log(teachersCopy2);
 
 // 4. Verifica se 'Fabio' è presente nell'array teachers
 // e salva il risultato nella variabile isFabioPresent
